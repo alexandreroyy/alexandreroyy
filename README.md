@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/PL%2FSQL-FF6F61?style=for-the-badge" alt="PL/SQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge" alt="SCSS">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge" alt="Supabase">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" alt="Vercel">
